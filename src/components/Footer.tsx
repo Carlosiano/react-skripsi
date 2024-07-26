@@ -16,7 +16,7 @@ export default function Footer() {
           <div className="container grid-list">
             <div className="footer-brand">
               <a href="#" className="logo">
-                <img src={logoFooter} width="162" height="50" alt="UTC logo" />
+                <img src={logoFooter} width="162" height="50" alt="UT logo" />
               </a>
 
               <p className="footer-brand-text">
@@ -43,8 +43,8 @@ export default function Footer() {
               <div className="wrapper">
                 <span className="span">Email:</span>
 
-                <a href="mailto:info@utc.com" className="footer-link">
-                  info@utc.com
+                <a href="mailto:info@ut.com" className="footer-link">
+                  info@ut.com
                 </a>
               </div>
             </div>
@@ -56,7 +56,7 @@ export default function Footer() {
 
               <li>
                 <a href="#" className="footer-link">
-                  Tentang UTC
+                  Tentang UT
                 </a>
               </li>
 

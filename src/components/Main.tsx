@@ -246,7 +246,7 @@ export default function Main() {
                 <p className="section-subtitle">Why?</p>
 
                 <h2 className="h2 section-title">
-                  Alasan <span className="span">Mengapa</span> Kuliah di UTC?
+                  Alasan <span className="span">Mengapa</span> Kuliah di UT?
                 </h2>
 
                 <p className="section-text"></p>

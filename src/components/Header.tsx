@@ -16,13 +16,13 @@ export default function Header({ scrollY }: { scrollY: number }) {
       <header className={`header ${scrollY > 100 && "active"}`} data-header>
         <div className="container">
           <a href="#" className="logo">
-            <img src={logoNav} alt="UTC logo" />
+            <img src={logoNav} alt="UT logo" />
           </a>
 
           <nav className={`navbar ${isActive ? "active" : ""}`} data-navbar>
             <div className="wrapper">
               <a href="#" className="logo">
-                <img src={logoNav} width="162" height="50" alt="UTC logo" />
+                <img src={logoNav} width="162" height="50" alt="UT logo" />
               </a>
 
               <button
