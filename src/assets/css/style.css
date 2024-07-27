@@ -470,8 +470,8 @@ body {
   #HERO
 \*-----------------------------------*/
 
-section.section.hero#home {
-    background-image: url('/src/assets/images/hero-bg.svg');
+section.section.hero#beranda {
+  background-image: url('/src/assets/images/hero-bg.svg');
 }
 
 .hero { 

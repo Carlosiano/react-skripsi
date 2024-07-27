@@ -35,8 +35,8 @@ export default function Main() {
 
           <section
             className="section hero has-bg-image"
-            id="home"
-            aria-label="home"
+            id="beranda"
+            aria-label="beranda"
           >
             <div className="container">
               <div className="hero-content">
