@@ -38,7 +38,7 @@ export default function Main() {
             className="section hero has-bg-image"
             id="home"
             aria-label="home"
-            style={{ backgroundImage: `url(${heroBg})` }}
+            style={{ backgroundImage: "url('/src/assets/images/hero-bg.svg')" }}
           >
             <div className="container">
               <div className="hero-content">
